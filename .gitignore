@@ -1,3 +1,5 @@
 database.yml
 secrets.yml
 *.log
+.vscode
+.DS_Store

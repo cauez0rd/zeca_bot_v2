@@ -29,7 +29,7 @@ GEM
       multipart-post (>= 1.2, < 3)
     i18n (0.7.0)
     ice_nine (0.11.2)
-    json (1.8.3)
+    json (1.8.6)
     minitest (5.8.4)
     multipart-post (2.0.0)
     pg (0.18.4)
@@ -55,3 +55,9 @@ DEPENDENCIES
   pg
   rake
   telegram-bot-ruby
+
+RUBY VERSION
+   ruby 2.4.1p111
+
+BUNDLED WITH
+   1.16.0.pre.2
